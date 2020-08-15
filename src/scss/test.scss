@@ -1,0 +1,17 @@
+@import 'variables';
+@import 'mixins';
+
+.excel__test {
+    padding: 9px 15px;
+    background: red;
+    color: wheat;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    position: fixed;
+    top: 2px;
+    left: 552px;
+    display: block;
+    max-width: 200px;
+    cursor: pointer;
+}
